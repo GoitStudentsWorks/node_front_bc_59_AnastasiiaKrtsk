@@ -7,4 +7,5 @@ export default defineConfig({
     include: ["@mui/x-date-pickers"],
   },
   plugins: [react()],
+  base: "/node_front_bc_59_AnastasiiaKrtsk"
 });
