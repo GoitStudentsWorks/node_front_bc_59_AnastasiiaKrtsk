@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://GoitStudentsWorks.github.com/node_front_bc_59_AnastasiiaKrtsk/",
+  "homepage": "https://GoitStudentsWorks.github.io/node_front_bc_59_AnastasiiaKrtsk/",
   "scripts": {
     "start": "vite",
     "build": "vite build",
